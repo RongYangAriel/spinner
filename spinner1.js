@@ -5,7 +5,7 @@ setTimeout(() => {
 }, 100);
 
 setTimeout(() => {
-  process.stdout.write('\r/   ');
+  process.stdout.write('\r|   ');
 }, 300);
 
 setTimeout(() => {
